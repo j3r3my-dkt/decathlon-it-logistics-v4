@@ -1,0 +1,10 @@
+{
+  "name": "decathlon-it-logistics-v4",
+  "version": "4.0.0",
+  "description": "Logistics configuration service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "UNLICENSED"
+}
